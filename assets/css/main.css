@@ -1565,7 +1565,7 @@ section {
 
 @media (min-width: 992px) {
   .pricing .featured {
-    transform: scale(1.15);
+    transform: scale(1);
   }
 }
 
